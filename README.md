@@ -8,7 +8,7 @@
 - Flash devices that have fastboot mode
 - Flash devices that requires SP Flash Tool
 - Perform actions trough ADB (such as button presses)
-- Reboot int recovery and fastboot mode
+- Reboot into recovery and fastboot mode
 - ADB terminal
 - Logcat
 - Screen mirror and remote control (BETA)
