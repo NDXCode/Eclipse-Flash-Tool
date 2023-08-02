@@ -19,6 +19,6 @@
 # Download
 ### You can download the latest version (v1.8) here
 
-[Download]([https://firebasestorage.googleapis.com/v0/b/eclipseflashtool.appspot.com/o/Eclipse%20Flash%20Tool-v1.6.exe?alt=media&token=5d5aa9bd-1850-45f8-875f-ae57e005a666](https://firebasestorage.googleapis.com/v0/b/eclipseflashtool.appspot.com/o/Eclipse%20Flash%20Tool-v1.8.exe?alt=media&token=ca4ee678-8d61-4526-9421-742db5c9767a)https://firebasestorage.googleapis.com/v0/b/eclipseflashtool.appspot.com/o/Eclipse%20Flash%20Tool-v1.8.exe?alt=media&token=ca4ee678-8d61-4526-9421-742db5c9767a)
+[Download](https://firebasestorage.googleapis.com/v0/b/eclipseflashtool.appspot.com/o/Eclipse%20Flash%20Tool-v1.8.exe?alt=media&token=ca4ee678-8d61-4526-9421-742db5c9767a)
 
 Or find all the versions [on the official website](https://eclipseflashtool.web.app)
