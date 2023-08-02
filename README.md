@@ -19,18 +19,17 @@
 - Enable mobile data toggle
 - List device information
 - iDevice Features
-   -- Restart
-  
-   -- Power OFF
-   -- Deep Sleep
-   -- List all APPs
-   -- Display device information
-   -- Read crash reports
-   -- Install IPAs
-   -- Enter and Exit recovery mode
-   -- Set device name
-   -- Spoof location
-   -- Mount Disk Images
+   - Restart
+   - Power OFF
+   - Deep Sleep
+   - List all APPs
+   - Display device information
+   - Read crash reports
+   - Install IPAs
+   - Enter and Exit recovery mode
+   - Set device name
+   - Spoof location
+   - Mount Disk Images
 
 # Download
 ### You can download the latest version (v1.8) here
