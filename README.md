@@ -20,6 +20,7 @@
 - List device information
 - iDevice Features
    -- Restart
+  
    -- Power OFF
    -- Deep Sleep
    -- List all APPs
