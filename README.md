@@ -41,7 +41,7 @@
    - Activate iDevice
    - iCloud bypass (iOS 9.3.5)
    - iCloud bypass (iOS 7.1.2)
-   - battery health (iDevice [EXPERIMENTAL])
+   - Battery health (iDevice [EXPERIMENTAL])
 
 # Download
 ### You can download the latest version (v1.9) here
