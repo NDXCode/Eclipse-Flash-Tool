@@ -44,8 +44,8 @@
    - battery health (iDevice [EXPERIMENTAL])
 
 # Download
-### You can download the latest version (v1.8) here
+### You can download the latest version (v1.9) here
 
-[Download](https://firebasestorage.googleapis.com/v0/b/eclipseflashtool.appspot.com/o/Eclipse%20Flash%20Tool-v1.8.exe?alt=media&token=ca4ee678-8d61-4526-9421-742db5c9767a)
+[Download](https://www.mediafire.com/file/mrz2vt55dqa3ulo/Eclipse_Flash_Tool-v1.9.exe/file)
 
 Or find all the versions [on the official website](https://eclipseflashtool.web.app) or on the [XDA page](https://forum.xda-developers.com/t/tool-eclipse-flash-tool-v1-8.4565923/).
