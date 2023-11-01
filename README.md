@@ -18,6 +18,14 @@
 - Change CSC (Samsung)
 - Enable mobile data toggle
 - List device information
+- Read charge cycles (Samsung)
+- Grant "Write Secure Settings" permission to any app
+-App Mananger
+	-Delete
+	-Disable
+	-Enable
+	-Open
+	-Stop
 - iDevice Features
    - Restart
    - Power OFF
@@ -30,6 +38,10 @@
    - Set device name
    - Spoof location
    - Mount Disk Images
+   - Activate iDevice
+   - iCloud bypass (iOS 9.3.5)
+   - iCloud bypass (iOS 7.1.2)
+   - battery health (iDevice [EXPERIMENTAL])
 
 # Download
 ### You can download the latest version (v1.8) here
