@@ -21,11 +21,11 @@
 - Read charge cycles (Samsung)
 - Grant "Write Secure Settings" permission to any app
 -App Mananger
-	-Delete
-	-Disable
-	-Enable
-	-Open
-	-Stop
+	- Delete
+	- Disable
+	- Enable
+	- Open
+	- Stop
 - iDevice Features
    - Restart
    - Power OFF
