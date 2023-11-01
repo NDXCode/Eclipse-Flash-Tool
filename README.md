@@ -20,7 +20,7 @@
 - List device information
 - Read charge cycles (Samsung)
 - Grant "Write Secure Settings" permission to any app
--App Mananger
+- App Mananger
 	- Delete
 	- Disable
 	- Enable
