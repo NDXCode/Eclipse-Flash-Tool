@@ -50,8 +50,8 @@
 - Xiaomi FRP bypass in sideload mode (Only works upto MIUI 12 [EXPERIMENTAL][UNTESTED])
 
 # Download
-### You can download the latest version (v1.9) here
+### You can download the latest version (v1.10) here
 
-[Download](https://www.mediafire.com/file/mrz2vt55dqa3ulo/Eclipse_Flash_Tool-v1.9.exe/file)
+[Download](https://www.mediafire.com/file/8o9don5br4yjf4v/Eclipse_Flash_Tool-v1.10.exe/file)
 
 Or find all the versions [on the official website](https://eclipseflashtool.web.app) or on the [XDA page](https://forum.xda-developers.com/t/tool-eclipse-flash-tool-v1-8.4565923/).
