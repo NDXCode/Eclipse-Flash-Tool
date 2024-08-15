@@ -42,6 +42,12 @@
    - iCloud bypass (iOS 9.3.5)
    - iCloud bypass (iOS 7.1.2)
    - Battery health (iDevice [EXPERIMENTAL])
+   - iOS 10 Jailbrek
+   - iOS 12 iCloud bypass (Tethered)
+   - Delete APPs
+- Permission granter
+- Samsung FRP bypass for new security
+- Xiaomi FRP bypass in sideload mode (Only works upto MIUI 12 [EXPERIMENTAL][UNTESTED])
 
 # Download
 ### You can download the latest version (v1.9) here
